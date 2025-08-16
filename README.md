@@ -56,7 +56,7 @@ My work is centered around leveraging Artificial Intelligence and Machine Learni
 - An AutoML web app where users can train models on their own custom datasets without prior coding knowledge.
 
 <u>**💼 Professional Experience**</u> <br>
-<img src="https://github.com/hpe-design/logos/blob/master/HPE%20Element%20-%20SVG/hpe-element-color.svg" alt="mongodb" width="40" height="40"/>Hewlett Packard Enterprise | Machine Learning Project Intern | Feb 2025 - Jun 2025
+<img src="https://github.com/hpe-design/logos/blob/master/HPE%20Element%20-%20SVG/hpe-element-color.svg" alt="mongodb" width="40" height="40" style = "margin-left:10px"/>Hewlett Packard Enterprise | Machine Learning Project Intern | Feb 2025 - Jun 2025
 
 - Developed a novel file type detection model by transforming raw binary data into image representations, achieving an 86% classification accuracy.
 
