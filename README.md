@@ -15,6 +15,7 @@
 </p>
 
 **👨‍💻 About Me**
+<br>
 Passionate and dedicated to expanding knowledge in Artificial Intelligence and Machine Learning, with a proven track record of developing numerous projects. Seeking an opportunity to further enhance skills and contribute to innovative projects in the field.
 
 🛠️ Skills & Technologies
