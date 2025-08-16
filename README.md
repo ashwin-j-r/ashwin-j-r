@@ -18,7 +18,8 @@
 <br>
 Passionate and dedicated to expanding knowledge in Artificial Intelligence and Machine Learning, with a proven track record of developing numerous projects. Seeking an opportunity to further enhance skills and contribute to innovative projects in the field.
 
-🛠️ Skills & Technologies
+**🛠️ Skills & Technologies**
+<br>
 Here are some of the technologies I've been working with:
 
 <p align="left">
@@ -45,16 +46,16 @@ Here are some of the technologies I've been working with:
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 </p>
 
-**🚀 Projects**
+**🚀 Projects** <br>
 My work is centered around leveraging Artificial Intelligence and Machine Learning to build deployable solutions for real-world problems. My key projects include:
 
-A medical chatbot to help users find accurate answers to their medical queries in one place.
+- A medical chatbot to help users find accurate answers to their medical queries in one place.
 
-A RAG-based web application that enables companies to create a custom chatbot for their business simply by uploading company information.
+- A RAG-based web application that enables companies to create a custom chatbot for their business simply by uploading company information.
 
-An AutoML web app where users can train models on their own custom datasets without prior coding knowledge.
+- An AutoML web app where users can train models on their own custom datasets without prior coding knowledge.
 
-**💼 Professional Experience**
+**💼 Professional Experience** <br>
 Hewlett Packard Enterprise | Machine Learning Project Intern | Feb 2025 - Jun 2025
 
 Developed a novel file type detection model by transforming raw binary data into image representations, achieving an 86% classification accuracy.
@@ -63,14 +64,14 @@ Focused on enhancing model accuracy and scalability for applications in cybersec
 
 Designed and built an interactive front-end dashboard to visualize model performance and predictions.
 
-**🎓 Education**
+**🎓 Education** <br>
 B.Tech in Computer Science (AI & ML)
 Vellore Institute of Technology, Bhopal (2022 - 2026)
 
-**🏆 Achievements & Contributions**
-Open Source: Actively contributed to projects like GSSoC '24 and Omdena, focusing on data processing and analysis to drive data-driven solutions.
+**🏆 Achievements & Contributions** <br>
+- Open Source: Actively contributed to projects like GSSoC '24 and Omdena, focusing on data processing and analysis to drive data-driven solutions.
 
-Hackathons: Participated in multiple hackathons, honing my skills in rapid prototyping, problem-solving, and collaboration under pressure.
+- Hackathons: Participated in multiple hackathons, honing my skills in rapid prototyping, problem-solving, and collaboration under pressure.
 
-Research: Conducted extensive research on Protein Folding using AI and on Information Theory and its applications in machine learning models.
+- Research: Conducted extensive research on Protein Folding using AI and on Information Theory and its applications in machine learning models.
 
