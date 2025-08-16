@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDBscjBsc3lmc3d1aXN1d3ZvdGd1NXo1ZzZkY3l2a3B6eDQ2YjQ0eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/M9gbBd9hDxZmpNUGgB/giphy.gif" width="100" />
+<img src="https://www.flaticon.com/free-animated-icon/artificial-intelligence_10971772" width="100" />
 </div>
 
 <h1 align="center">Hi there, I'm Ashwin JR 👋</h1>
