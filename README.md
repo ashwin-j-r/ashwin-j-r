@@ -6,7 +6,7 @@
 <h3 align="center">A passionate AI and Machine Learning Engineer</h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/ashwin-j-r/" target="_blank">
+<a href="https://www.linkedin.com/in/ashwin-j-r-3533251a0/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="mailto:appuashwin345@gmail.com">
