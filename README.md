@@ -14,11 +14,11 @@
 </a>
 </p>
 
-**👨‍💻 About Me**
+<u>**👨‍💻 About Me**</u>
 <br>
 Passionate and dedicated to expanding knowledge in Artificial Intelligence and Machine Learning, with a proven track record of developing numerous projects. Seeking an opportunity to further enhance skills and contribute to innovative projects in the field.
 
-**🛠️ Skills & Technologies**
+<u>**🛠️ Skills & Technologies**</u>
 <br>
 Here are some of the technologies I've been working with:
 
@@ -46,7 +46,7 @@ Here are some of the technologies I've been working with:
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 </p>
 
-**🚀 Projects** <br>
+<u>**🚀 Projects**</u> <br>
 My work is centered around leveraging Artificial Intelligence and Machine Learning to build deployable solutions for real-world problems. My key projects include:
 
 - A medical chatbot to help users find accurate answers to their medical queries in one place.
@@ -55,20 +55,20 @@ My work is centered around leveraging Artificial Intelligence and Machine Learni
 
 - An AutoML web app where users can train models on their own custom datasets without prior coding knowledge.
 
-**💼 Professional Experience** <br>
+<u>**💼 Professional Experience**</u> <br>
 Hewlett Packard Enterprise | Machine Learning Project Intern | Feb 2025 - Jun 2025
 
-Developed a novel file type detection model by transforming raw binary data into image representations, achieving an 86% classification accuracy.
+- Developed a novel file type detection model by transforming raw binary data into image representations, achieving an 86% classification accuracy.
 
-Focused on enhancing model accuracy and scalability for applications in cybersecurity and digital forensics.
+- Focused on enhancing model accuracy and scalability for applications in cybersecurity and digital forensics.
 
-Designed and built an interactive front-end dashboard to visualize model performance and predictions.
+- Designed and built an interactive front-end dashboard to visualize model performance and predictions.
 
-**🎓 Education** <br>
+<u>**🎓 Education**</u> <br>
 B.Tech in Computer Science (AI & ML)
 Vellore Institute of Technology, Bhopal (2022 - 2026)
 
-**🏆 Achievements & Contributions** <br>
+<u>**🏆 Achievements & Contributions**</u> <br>
 - Open Source: Actively contributed to projects like GSSoC '24 and Omdena, focusing on data processing and analysis to drive data-driven solutions.
 
 - Hackathons: Participated in multiple hackathons, honing my skills in rapid prototyping, problem-solving, and collaboration under pressure.
